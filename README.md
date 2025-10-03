@@ -14,5 +14,5 @@ Currently, I'm working on my <b>final thesis in unsupervised anomaly detection</
 
 
 # 📊 GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=Chri060&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Chri060&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chri060&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
