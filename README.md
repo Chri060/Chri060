@@ -1,5 +1,5 @@
 # 💫 About me
-👋 Hi! I'm a Computer Science and Engineering student at <b>Politecnico di Milano</b>.<br>
+I'm a Computer Science and Engineering student at <b>Politecnico di Milano</b>.<br>
 Currently, I'm working on my <b>final thesis in unsupervised anomaly detection</b>, exploring innovative ways to detect anomalies in complex datasets.
 
 
@@ -14,4 +14,8 @@ Currently, I'm working on my <b>final thesis in unsupervised anomaly detection</
 
 
 # 📊 GitHub stats
+<div align=center>
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chri060&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
